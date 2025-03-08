@@ -27,6 +27,7 @@
 
 body {
     background: var(--bg-url) no-repeat top center/cover;
+    transition: background 0.3s ease-in-out;
     height: 100vh;
 }
 
